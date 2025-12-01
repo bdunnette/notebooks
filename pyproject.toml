@@ -1,7 +1,7 @@
 [project]
 name = "bdunnette-notebooks"
 version = "0.0.1"
-requires-python = ">= 3.12"
+requires-python = ">= 3.12,<3.14"
 dependencies = [
     "jupyterlite-core~=0.7",
     "jupyterlab~=4.5",
