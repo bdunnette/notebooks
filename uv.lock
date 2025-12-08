@@ -149,7 +149,7 @@ requires-dist = [
     { name = "jupyterlab-night" },
     { name = "jupyterlite-core", specifier = "~=0.7" },
     { name = "jupyterlite-javascript-kernel", specifier = "==0.3.0" },
-    { name = "jupyterlite-p5-kernel", specifier = "==0.1.1" },
+    { name = "jupyterlite-p5-kernel", specifier = "==0.3.0" },
     { name = "jupyterlite-pyodide-kernel", specifier = "~=0.7" },
     { name = "notebook", specifier = "~=7.5" },
     { name = "plotly", specifier = ">=6,<7" },
@@ -1015,11 +1015,11 @@ wheels = [
 
 [[package]]
 name = "jupyterlite-p5-kernel"
-version = "0.1.1"
+version = "0.3.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/b9/5c/de002417d876323b22ed35d01737a0cff9871eff1c566dc8fd6dfc222a32/jupyterlite_p5_kernel-0.1.1.tar.gz", hash = "sha256:4d73fdab2f7887219b8b958dabda5ac0b09e09db7839b80415379a28224d5036", size = 241344, upload-time = "2023-02-10T14:48:26.763Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/6e/c5/e2d6f97f73cc368a802492a1e037950e56be11050e60ad62252669ec7343/jupyterlite_p5_kernel-0.3.0.tar.gz", hash = "sha256:293974231974eef8d08eed6083a9ab6f3f2a9f18bd35cf98d9262d2ab8570fc6", size = 224894, upload-time = "2025-12-02T16:12:34.355Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ba/5f/4d56c4f5eb7705f95623039add0a52c9dce3407bf1646ba024d99ff7ec6b/jupyterlite_p5_kernel-0.1.1-py3-none-any.whl", hash = "sha256:45d8424e09ca160ce6823bc10180e210400d519e2195fa84af2d8dc08c9a37b2", size = 21760, upload-time = "2023-02-10T14:48:24.335Z" },
+    { url = "https://files.pythonhosted.org/packages/fd/99/643dd0b8d55d978685777567ff331af944e2a2c2d648a4f399b52f9fde99/jupyterlite_p5_kernel-0.3.0-py3-none-any.whl", hash = "sha256:8b3083bfcfecb6f0786ca5607603e094623a487c37f8ffa5825a1c1eda5686b0", size = 22018, upload-time = "2025-12-02T16:12:32.702Z" },
 ]
 
 [[package]]
