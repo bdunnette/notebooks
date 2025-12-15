@@ -538,16 +538,16 @@ wheels = [
 
 [[package]]
 name = "ipycanvas"
-version = "0.14.2"
+version = "0.14.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "ipywidgets" },
     { name = "numpy" },
     { name = "pillow" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/b4/6f/26d4faa5bc2078d271c7b2f95e96ed919925ff4919a36b4412f406748f9d/ipycanvas-0.14.2.tar.gz", hash = "sha256:38537044771194dda31636c4107878471672a7acb584b7e8b5182b229b1706d5", size = 4141081, upload-time = "2025-11-26T10:14:05.116Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/50/56/484c8979bbcaa3e3f2da4eac6a1eb41e998e353e4c6ef89e9612889813c8/ipycanvas-0.14.3.tar.gz", hash = "sha256:c6a53a22eebf4d611b168b8f4434145883f27a7575509bd99a4bfc48c5385a39", size = 4150499, upload-time = "2025-12-11T09:12:59.916Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/fb/c1/5bee6c4952f2d7cb0d0f3a6ce3574680937ce75a3f46abc2c19cf2685c38/ipycanvas-0.14.2-py2.py3-none-any.whl", hash = "sha256:94e3498251033d489f4d91cae074a8a8d91e65b5809767dfd6ee903df6ae4bc3", size = 143160, upload-time = "2025-11-26T10:13:55.097Z" },
+    { url = "https://files.pythonhosted.org/packages/11/37/c6880bd16093793dcb4c005011cf968f45fd815b7b5094fa8374524add26/ipycanvas-0.14.3-py2.py3-none-any.whl", hash = "sha256:8a2f48e1e079355d3e7d5683e5c6e7684a87c15c3750c8d8cd2289c95383ee3e", size = 142962, upload-time = "2025-12-11T09:12:50.5Z" },
 ]
 
 [[package]]
