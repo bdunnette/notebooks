@@ -10,7 +10,7 @@ dependencies = [
     "jupyterlite-javascript-kernel==0.3.0",
     "jupyterlab-language-pack-fr-fr",
     "jupyterlab-language-pack-zh-cn",
-    "jupyterlite-p5-kernel==0.1.1",
+    "jupyterlite-p5-kernel==0.3.0",
     "jupyterlab-fasta>=3.3.0,<4",
     "jupyterlab-geojson>=3.4.0,<4",
     "jupyterlab-night",
