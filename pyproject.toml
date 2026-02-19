@@ -30,4 +30,7 @@ package = false
 [dependency-groups]
 dev = [
     "prek>=0.3.3",
+    "geopandas>=1.1.2",
+    "folium>=0.20.0",
+    "mapclassify>=2.10.0",
 ]
